@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/risunity.jpg" alt="Risunity" width="220" />
+<img src="https://raw.githubusercontent.com/Risunity/.github/main/assets/risunity.jpg" alt="Risunity" width="220" />
 
 # Risunity
 
